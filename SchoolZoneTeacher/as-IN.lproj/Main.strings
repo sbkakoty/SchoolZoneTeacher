@@ -1,0 +1,255 @@
+
+/* Class = "UILabel"; text = "www.OurSchoolZone.org"; ObjectID = "11J-DJ-WmA"; */
+"11J-DJ-WmA.text" = "www.OurSchoolZone.org";
+
+/* Class = "UILabel"; text = "Completion date"; ObjectID = "138-as-FuU"; */
+"138-as-FuU.text" = "Completion date";
+
+/* Class = "UITextView"; text = "Remarks"; ObjectID = "1AD-hP-ad8"; */
+"1AD-hP-ad8.text" = "Remarks";
+
+/* Class = "UILabel"; text = "Subject"; ObjectID = "28L-0D-Bfv"; */
+"28L-0D-Bfv.text" = "Subject";
+
+/* Class = "UILabel"; text = "Teacher"; ObjectID = "4ff-bC-vjO"; */
+"4ff-bC-vjO.text" = "Teacher";
+
+/* Class = "UILabel"; text = "Class Name"; ObjectID = "5BH-3H-SEN"; */
+"5BH-3H-SEN.text" = "Class Name";
+
+/* Class = "UILabel"; text = "Teacher:"; ObjectID = "5zA-65-jyc"; */
+"5zA-65-jyc.text" = "Teacher:";
+
+/* Class = "UILabel"; text = "Roll Number:"; ObjectID = "78r-YP-Myi"; */
+"78r-YP-Myi.text" = "Roll Number:";
+
+/* Class = "UILabel"; text = "Class Name"; ObjectID = "7t8-xX-Jcx"; */
+"7t8-xX-Jcx.text" = "Class Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8IW-nA-ZbM"; */
+"8IW-nA-ZbM.text" = "Label";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "AHp-DY-Km4"; */
+"AHp-DY-Km4.text" = "Date";
+
+/* Class = "UIButton"; normalTitle = "menuCTT"; ObjectID = "AOu-fY-cXc"; */
+"AOu-fY-cXc.normalTitle" = "menuCTT";
+
+/* Class = "UILabel"; text = "Subject"; ObjectID = "Cjm-SX-NO5"; */
+"Cjm-SX-NO5.text" = "Subject";
+
+/* Class = "UILabel"; text = "completiondate"; ObjectID = "Dad-69-pHn"; */
+"Dad-69-pHn.text" = "completiondate";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EDS-Yj-7hG"; */
+"EDS-Yj-7hG.text" = "Label";
+
+/* Class = "UILabel"; text = "Class Name"; ObjectID = "Ep5-92-W2S"; */
+"Ep5-92-W2S.text" = "Class Name";
+
+/* Class = "UILabel"; text = "Subject Name"; ObjectID = "EsT-0b-qKW"; */
+"EsT-0b-qKW.text" = "Subject Name";
+
+/* Class = "UILabel"; text = "Exam Name:"; ObjectID = "Hxs-QY-CSf"; */
+"Hxs-QY-CSf.text" = "Exam Name:";
+
+/* Class = "UILabel"; text = "Teacher Name"; ObjectID = "I0P-PG-eX6"; */
+"I0P-PG-eX6.text" = "Teacher Name";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "IPO-SE-nMc"; */
+"IPO-SE-nMc.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "Book Name"; ObjectID = "JZ7-Wl-Ll6"; */
+"JZ7-Wl-Ll6.text" = "Book Name";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "KFd-gv-vYj"; */
+"KFd-gv-vYj.text" = "Date";
+
+/* Class = "UITextView"; text = "description"; ObjectID = "Ktw-Lt-6QL"; */
+"Ktw-Lt-6QL.text" = "description";
+
+/* Class = "UIButton"; normalTitle = "View Attachment"; ObjectID = "L6q-Bc-Mn9"; */
+"L6q-Bc-Mn9.normalTitle" = "View Attachment";
+
+/* Class = "UILabel"; text = "Subject Name"; ObjectID = "LoD-qc-E0Z"; */
+"LoD-qc-E0Z.text" = "Subject Name";
+
+/* Class = "UILabel"; text = "Total Marks"; ObjectID = "MVd-0g-DgE"; */
+"MVd-0g-DgE.text" = "Total Marks";
+
+/* Class = "UILabel"; text = "Class"; ObjectID = "MbT-Px-5Ai"; */
+"MbT-Px-5Ai.text" = "Class";
+
+/* Class = "UILabel"; text = "labelSubject"; ObjectID = "Mfc-mu-eUh"; */
+"Mfc-mu-eUh.text" = "labelSubject";
+
+/* Class = "UILabel"; text = "eventtitle"; ObjectID = "N5y-FU-VuV"; */
+"N5y-FU-VuV.text" = "eventtitle";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "OTS-cE-gef"; */
+"OTS-cE-gef.text" = "1";
+
+/* Class = "UILabel"; text = "Subject Name"; ObjectID = "Pjv-Bm-562"; */
+"Pjv-Bm-562.text" = "Subject Name";
+
+/* Class = "UILabel"; text = "Type:"; ObjectID = "Plf-Pk-9vf"; */
+"Plf-Pk-9vf.text" = "Type:";
+
+/* Class = "UILabel"; text = "Class"; ObjectID = "R42-g8-kHX"; */
+"R42-g8-kHX.text" = "Class";
+
+/* Class = "UIButton"; normalTitle = "menuExam"; ObjectID = "R5Q-Fa-0g6"; */
+"R5Q-Fa-0g6.normalTitle" = "menuExam";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "RPd-Ox-XvZ"; */
+"RPd-Ox-XvZ.normalTitle" = "X";
+
+/* Class = "UIButton"; normalTitle = "menuEvents"; ObjectID = "RRa-ca-Mjr"; */
+"RRa-ca-Mjr.normalTitle" = "menuEvents";
+
+/* Class = "UILabel"; text = "Chapter Index"; ObjectID = "Rpd-5a-WjY"; */
+"Rpd-5a-WjY.text" = "Chapter Index";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "Rwg-K4-5dz"; */
+"Rwg-K4-5dz.text" = "Total";
+
+/* Class = "UIButton"; normalTitle = "menuBooks"; ObjectID = "S4Z-zP-h8a"; */
+"S4Z-zP-h8a.normalTitle" = "menuBooks";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "SFc-hB-zfi"; */
+"SFc-hB-zfi.text" = "Date";
+
+/* Class = "UILabel"; text = "labelChapter"; ObjectID = "SQE-3c-Zoq"; */
+"SQE-3c-Zoq.text" = "labelChapter";
+
+/* Class = "UILabel"; text = "Agreement to use SchoolZone Mobile App"; ObjectID = "TnG-zK-k3C"; */
+"TnG-zK-k3C.text" = "Agreement to use SchoolZone Mobile App";
+
+/* Class = "UILabel"; text = "Book Name"; ObjectID = "UJO-rV-4vK"; */
+"UJO-rV-4vK.text" = "Book Name";
+
+/* Class = "UILabel"; text = "Chapter"; ObjectID = "UOT-8n-tmZ"; */
+"UOT-8n-tmZ.text" = "Chapter";
+
+/* Class = "UILabel"; text = "Teacher Name"; ObjectID = "UbY-SR-ZiB"; */
+"UbY-SR-ZiB.text" = "Teacher Name";
+
+/* Class = "UILabel"; text = "enddate"; ObjectID = "Vqx-dw-5El"; */
+"Vqx-dw-5El.text" = "enddate";
+
+/* Class = "UILabel"; text = "Class"; ObjectID = "XSY-ab-18k"; */
+"XSY-ab-18k.text" = "Class";
+
+/* Class = "UILabel"; text = "Chapter Name"; ObjectID = "XX1-KE-mmS"; */
+"XX1-KE-mmS.text" = "Chapter Name";
+
+/* Class = "UILabel"; text = "startdate"; ObjectID = "Xes-7c-k6U"; */
+"Xes-7c-k6U.text" = "startdate";
+
+/* Class = "UILabel"; text = "Class Name"; ObjectID = "ZkX-oU-3hR"; */
+"ZkX-oU-3hR.text" = "Class Name";
+
+/* Class = "UILabel"; text = "Book Title"; ObjectID = "b1j-6G-x7L"; */
+"b1j-6G-x7L.text" = "Book Title";
+
+/* Class = "UILabel"; text = "Chapter Name"; ObjectID = "bSU-un-Qx0"; */
+"bSU-un-Qx0.text" = "Chapter Name";
+
+/* Class = "UILabel"; text = "Marks Secured"; ObjectID = "cNO-Ym-k9l"; */
+"cNO-Ym-k9l.text" = "Marks Secured";
+
+/* Class = "UILabel"; text = "labelChapterIndex"; ObjectID = "clZ-sT-KRe"; */
+"clZ-sT-KRe.text" = "labelChapterIndex";
+
+/* Class = "UIButton"; normalTitle = "menuAR"; ObjectID = "cwC-1x-Xbz"; */
+"cwC-1x-Xbz.normalTitle" = "menuAR";
+
+/* Class = "UIButton"; normalTitle = "menuRemarks"; ObjectID = "dWl-G1-Yuu"; */
+"dWl-G1-Yuu.normalTitle" = "menuRemarks";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "dag-zJ-6sP"; */
+"dag-zJ-6sP.normalTitle" = "Select";
+
+/* Class = "UILabel"; text = "news title"; ObjectID = "fFs-JF-vkE"; */
+"fFs-JF-vkE.text" = "news title";
+
+/* Class = "UILabel"; text = "news date"; ObjectID = "hAR-8d-Gek"; */
+"hAR-8d-Gek.text" = "news date";
+
+/* Class = "UILabel"; text = "Class"; ObjectID = "hL0-l0-662"; */
+"hL0-l0-662.text" = "Class";
+
+/* Class = "UILabel"; text = "Class Name"; ObjectID = "isp-b1-nVz"; */
+"isp-b1-nVz.text" = "Class Name";
+
+/* Class = "UILabel"; text = "Wed, Apr 25"; ObjectID = "j32-jC-cAY"; */
+"j32-jC-cAY.text" = "Wed, Apr 25";
+
+/* Class = "UIButton"; normalTitle = "View Attachment"; ObjectID = "j4x-w8-oWo"; */
+"j4x-w8-oWo.normalTitle" = "View Attachment";
+
+/* Class = "UILabel"; text = "Subject"; ObjectID = "k0N-rF-0aS"; */
+"k0N-rF-0aS.text" = "Subject";
+
+/* Class = "UITextView"; text = "textRemarks"; ObjectID = "kaU-Ta-lC1"; */
+"kaU-Ta-lC1.text" = "textRemarks";
+
+/* Class = "UILabel"; text = "Subject Name"; ObjectID = "kia-h6-vaT"; */
+"kia-h6-vaT.text" = "Subject Name";
+
+/* Class = "UILabel"; text = "labelBookTitle"; ObjectID = "l3Q-ly-6Sl"; */
+"l3Q-ly-6Sl.text" = "labelBookTitle";
+
+/* Class = "UITextView"; text = "description"; ObjectID = "mLN-gF-ZN2"; */
+"mLN-gF-ZN2.text" = "description";
+
+/* Class = "UILabel"; text = "Subject Name"; ObjectID = "mQR-1x-Pkq"; */
+"mQR-1x-Pkq.text" = "Subject Name";
+
+/* Class = "UIButton"; normalTitle = "menuAnnouncement"; ObjectID = "nNX-sY-p6T"; */
+"nNX-sY-p6T.normalTitle" = "menuAnnouncement";
+
+/* Class = "UIButton"; normalTitle = "View Attachment"; ObjectID = "orb-rK-Jwq"; */
+"orb-rK-Jwq.normalTitle" = "View Attachment";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "ox1-4G-PRi"; */
+"ox1-4G-PRi.text" = "Date";
+
+/* Class = "UILabel"; text = "Subject Name"; ObjectID = "qCq-Wq-Ivf"; */
+"qCq-Wq-Ivf.text" = "Subject Name";
+
+/* Class = "UITextView"; text = "Remarks"; ObjectID = "qyS-HA-kQA"; */
+"qyS-HA-kQA.text" = "Remarks";
+
+/* Class = "UILabel"; text = "Chapter Index"; ObjectID = "rSn-a3-0EE"; */
+"rSn-a3-0EE.text" = "Chapter Index";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rVg-Q2-W0B"; */
+"rVg-Q2-W0B.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "menuSettings"; ObjectID = "rer-h4-9b0"; */
+"rer-h4-9b0.normalTitle" = "menuSettings";
+
+/* Class = "UILabel"; text = "labelClass"; ObjectID = "u1c-LG-heW"; */
+"u1c-LG-heW.text" = "labelClass";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "uhc-J5-sC2"; */
+"uhc-J5-sC2.text" = "Date";
+
+/* Class = "UILabel"; text = "Chapter Index"; ObjectID = "vK8-6C-ROg"; */
+"vK8-6C-ROg.text" = "Chapter Index";
+
+/* Class = "UILabel"; text = "I accept the Terms & Conditions."; ObjectID = "wbk-fZ-dma"; */
+"wbk-fZ-dma.text" = "I accept the Terms & Conditions.";
+
+/* Class = "UITextView"; text = "textRemarks"; ObjectID = "wnf-fM-wyh"; */
+"wnf-fM-wyh.text" = "textRemarks";
+
+/* Class = "UILabel"; text = "2018"; ObjectID = "xu5-Jp-x8W"; */
+"xu5-Jp-x8W.text" = "2018";
+
+/* Class = "UILabel"; text = "Subject"; ObjectID = "yuL-MB-6t6"; */
+"yuL-MB-6t6.text" = "Subject";
+
+/* Class = "UILabel"; text = "Class:"; ObjectID = "z5h-WZ-vdZ"; */
+"z5h-WZ-vdZ.text" = "Class:";

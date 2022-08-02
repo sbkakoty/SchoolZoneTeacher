@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="ExamCell" id="KGk-i7-Jjw" customClass="ExamTableViewCell" customModule="SchoolZoneTeacher" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="85"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="84.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view opaque="NO" contentMode="scaleAspectFit" translatesAutoresizingMaskIntoConstraints="NO" id="UsP-PM-Zy6">
+                        <rect key="frame" x="10" y="8" width="300" height="75"/>
+                        <subviews>
+                            <imageView contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="YvP-nA-r64">
+                                <rect key="frame" x="5" y="12" width="50" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="50" id="s6h-Rk-xej"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Option Name" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uAz-8l-c9l">
+                                <rect key="frame" x="63" y="0.0" width="216" height="75"/>
+                                <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="20"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="arrowright" translatesAutoresizingMaskIntoConstraints="NO" id="mtX-x6-uzO">
+                                <rect key="frame" x="273" y="24" width="27" height="27"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="27" id="p8z-g0-2b4"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="YvP-nA-r64" firstAttribute="top" secondItem="UsP-PM-Zy6" secondAttribute="top" constant="12" id="046-kX-s7s"/>
+                            <constraint firstItem="mtX-x6-uzO" firstAttribute="top" secondItem="UsP-PM-Zy6" secondAttribute="top" constant="24" id="IGv-wo-In5"/>
+                            <constraint firstItem="YvP-nA-r64" firstAttribute="centerY" secondItem="uAz-8l-c9l" secondAttribute="centerY" id="coI-1t-Aaz"/>
+                            <constraint firstAttribute="trailing" secondItem="mtX-x6-uzO" secondAttribute="trailing" id="ebz-2O-L1O"/>
+                            <constraint firstItem="uAz-8l-c9l" firstAttribute="leading" secondItem="YvP-nA-r64" secondAttribute="trailing" constant="8" symbolic="YES" id="gyQ-jR-aMD"/>
+                            <constraint firstItem="YvP-nA-r64" firstAttribute="leading" secondItem="UsP-PM-Zy6" secondAttribute="leading" constant="5" id="hha-Td-2PT"/>
+                            <constraint firstAttribute="trailing" secondItem="uAz-8l-c9l" secondAttribute="trailing" constant="21" id="mAV-cF-An8"/>
+                            <constraint firstItem="uAz-8l-c9l" firstAttribute="centerY" secondItem="mtX-x6-uzO" secondAttribute="centerY" id="nQD-Vs-SdH"/>
+                            <constraint firstAttribute="bottom" secondItem="uAz-8l-c9l" secondAttribute="bottom" id="osk-Zx-VZW"/>
+                            <constraint firstItem="uAz-8l-c9l" firstAttribute="top" secondItem="UsP-PM-Zy6" secondAttribute="top" id="ylB-4a-diL"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="UsP-PM-Zy6" firstAttribute="centerX" secondItem="H2p-sc-9uM" secondAttribute="centerX" id="6wA-7H-yZ1"/>
+                    <constraint firstItem="UsP-PM-Zy6" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leadingMargin" constant="-6" id="H2I-D0-7wi"/>
+                    <constraint firstItem="UsP-PM-Zy6" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="topMargin" constant="-3" id="S1k-wI-Pjv"/>
+                    <constraint firstAttribute="bottomMargin" secondItem="UsP-PM-Zy6" secondAttribute="bottom" constant="-9" id="mYb-DS-hB8"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="containerView" destination="UsP-PM-Zy6" id="UEw-Wp-px1"/>
+                <outlet property="menuIcon" destination="YvP-nA-r64" id="m07-mt-Mqe"/>
+                <outlet property="menuOption" destination="uAz-8l-c9l" id="hz7-Rd-xuD"/>
+            </connections>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="arrowright" width="14" height="14"/>
+    </resources>
+</document>

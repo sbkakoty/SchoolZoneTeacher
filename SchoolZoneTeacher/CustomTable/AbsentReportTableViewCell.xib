@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="AbsentReportCell" id="KGk-i7-Jjw" customClass="AbsentReportTableViewCell" customModule="SchoolZoneTeacher" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="104"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="103.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="T35-xd-bAI">
+                        <rect key="frame" x="10" y="10" width="300" height="91"/>
+                        <subviews>
+                            <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Student Name" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SsC-cN-y54">
+                                <rect key="frame" x="5" y="5" width="101" height="14"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="101" id="abw-IF-Nyh"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="12"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Student Name" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ebn-ie-YsD">
+                                <rect key="frame" x="108" y="5" width="192" height="14"/>
+                                <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="12"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Start Date" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hly-R8-jM9">
+                                <rect key="frame" x="5" y="21" width="101" height="14"/>
+                                <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="12"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Start Date" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bCA-pS-qXo">
+                                <rect key="frame" x="108" y="21" width="68" height="13"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="13" id="Jhv-1i-hZ8"/>
+                                    <constraint firstAttribute="width" constant="68" id="TJo-rO-rMn"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="11"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" contentMode="TopLeft" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Reason" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CJW-4a-2uw">
+                                <rect key="frame" x="5" y="66" width="295" height="25"/>
+                                <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="11"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="End Date" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vod-JF-ayp">
+                                <rect key="frame" x="5" y="36" width="101" height="14"/>
+                                <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="12"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="End Date" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sTn-xI-RU6">
+                                <rect key="frame" x="108" y="36" width="68" height="13"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="13" id="G3j-mH-I9D"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="11"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Reason" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aCy-17-npR">
+                                <rect key="frame" x="5" y="51" width="101" height="14"/>
+                                <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="12"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="bCA-pS-qXo" firstAttribute="trailing" secondItem="sTn-xI-RU6" secondAttribute="trailing" id="0FA-CC-tSw"/>
+                            <constraint firstItem="vod-JF-ayp" firstAttribute="trailing" secondItem="aCy-17-npR" secondAttribute="trailing" id="1mO-99-f93"/>
+                            <constraint firstItem="ebn-ie-YsD" firstAttribute="leading" secondItem="bCA-pS-qXo" secondAttribute="leading" id="1xA-XI-oUR"/>
+                            <constraint firstItem="SsC-cN-y54" firstAttribute="leading" secondItem="T35-xd-bAI" secondAttribute="leading" constant="5" id="7el-Yz-XcW"/>
+                            <constraint firstItem="hly-R8-jM9" firstAttribute="top" secondItem="SsC-cN-y54" secondAttribute="bottom" constant="2" id="85E-Cf-V2E"/>
+                            <constraint firstItem="CJW-4a-2uw" firstAttribute="top" secondItem="sTn-xI-RU6" secondAttribute="bottom" constant="17" id="Cfq-vY-QHu"/>
+                            <constraint firstItem="CJW-4a-2uw" firstAttribute="top" secondItem="aCy-17-npR" secondAttribute="bottom" constant="1" id="DgN-WY-b9v"/>
+                            <constraint firstAttribute="trailing" secondItem="ebn-ie-YsD" secondAttribute="trailing" id="F28-M8-1mM"/>
+                            <constraint firstItem="SsC-cN-y54" firstAttribute="leading" secondItem="hly-R8-jM9" secondAttribute="leading" id="FSQ-za-Mna"/>
+                            <constraint firstItem="ebn-ie-YsD" firstAttribute="leading" secondItem="SsC-cN-y54" secondAttribute="trailing" constant="2" id="PSI-oO-una"/>
+                            <constraint firstItem="vod-JF-ayp" firstAttribute="top" secondItem="hly-R8-jM9" secondAttribute="bottom" constant="1" id="T8h-7s-LKt"/>
+                            <constraint firstAttribute="bottom" secondItem="CJW-4a-2uw" secondAttribute="bottom" id="U0x-Yn-Kz6"/>
+                            <constraint firstItem="SsC-cN-y54" firstAttribute="trailing" secondItem="hly-R8-jM9" secondAttribute="trailing" id="c16-8W-PuT"/>
+                            <constraint firstItem="vod-JF-ayp" firstAttribute="centerY" secondItem="sTn-xI-RU6" secondAttribute="centerY" id="cIZ-je-eJc"/>
+                            <constraint firstItem="vod-JF-ayp" firstAttribute="top" secondItem="sTn-xI-RU6" secondAttribute="top" id="gj3-S1-DMD"/>
+                            <constraint firstItem="hly-R8-jM9" firstAttribute="centerY" secondItem="bCA-pS-qXo" secondAttribute="centerY" id="iXI-VI-BBN"/>
+                            <constraint firstItem="bCA-pS-qXo" firstAttribute="leading" secondItem="sTn-xI-RU6" secondAttribute="leading" id="jzf-xv-NnQ"/>
+                            <constraint firstItem="aCy-17-npR" firstAttribute="top" secondItem="vod-JF-ayp" secondAttribute="bottom" constant="1" id="k7j-N9-TEf"/>
+                            <constraint firstItem="ebn-ie-YsD" firstAttribute="trailing" secondItem="CJW-4a-2uw" secondAttribute="trailing" id="kAG-vG-IbU"/>
+                            <constraint firstItem="hly-R8-jM9" firstAttribute="leading" secondItem="vod-JF-ayp" secondAttribute="leading" id="lLV-2c-JG2"/>
+                            <constraint firstItem="hly-R8-jM9" firstAttribute="trailing" secondItem="vod-JF-ayp" secondAttribute="trailing" id="mHj-5z-ODE"/>
+                            <constraint firstItem="aCy-17-npR" firstAttribute="leading" secondItem="CJW-4a-2uw" secondAttribute="leading" id="oTh-BL-vDT"/>
+                            <constraint firstItem="hly-R8-jM9" firstAttribute="top" secondItem="bCA-pS-qXo" secondAttribute="top" id="qjQ-bS-AWQ"/>
+                            <constraint firstItem="ebn-ie-YsD" firstAttribute="baseline" secondItem="SsC-cN-y54" secondAttribute="firstBaseline" id="rGO-bG-hUu"/>
+                            <constraint firstItem="SsC-cN-y54" firstAttribute="top" secondItem="T35-xd-bAI" secondAttribute="top" constant="5" id="vbB-7V-2TI"/>
+                            <constraint firstItem="vod-JF-ayp" firstAttribute="leading" secondItem="aCy-17-npR" secondAttribute="leading" id="w1J-QJ-qhD"/>
+                            <constraint firstItem="SsC-cN-y54" firstAttribute="baseline" secondItem="ebn-ie-YsD" secondAttribute="baseline" id="xE8-yZ-11n"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="T35-xd-bAI" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leadingMargin" constant="-6" id="AsY-DL-9Tt"/>
+                    <constraint firstAttribute="bottomMargin" secondItem="T35-xd-bAI" secondAttribute="bottom" constant="-8" id="c5p-0L-Uzt"/>
+                    <constraint firstItem="T35-xd-bAI" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="topMargin" constant="-1" id="huu-i2-s0K"/>
+                    <constraint firstItem="T35-xd-bAI" firstAttribute="centerX" secondItem="H2p-sc-9uM" secondAttribute="centerX" id="oSd-ji-mLd"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="containerView" destination="T35-xd-bAI" id="Nd4-8T-1MP"/>
+                <outlet property="labelEndDate" destination="vod-JF-ayp" id="cqv-14-lHs"/>
+                <outlet property="labelReason" destination="aCy-17-npR" id="FFm-5N-hRy"/>
+                <outlet property="labelStartDate" destination="hly-R8-jM9" id="LRQ-M6-3mJ"/>
+                <outlet property="labelStudentName" destination="SsC-cN-y54" id="632-rW-HvC"/>
+                <outlet property="textEndDate" destination="sTn-xI-RU6" id="Qsp-Nx-qg1"/>
+                <outlet property="textReason" destination="CJW-4a-2uw" id="hnt-cX-rbD"/>
+                <outlet property="textStartDate" destination="bCA-pS-qXo" id="Sx7-gq-A3P"/>
+                <outlet property="textStudent" destination="ebn-ie-YsD" id="9Fb-DQ-KJJ"/>
+            </connections>
+            <point key="canvasLocation" x="65.599999999999994" y="48.575712143928037"/>
+        </tableViewCell>
+    </objects>
+</document>

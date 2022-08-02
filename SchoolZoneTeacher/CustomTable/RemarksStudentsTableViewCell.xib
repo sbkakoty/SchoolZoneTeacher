@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="RemarksStudentsCell" id="KGk-i7-Jjw" customClass="RemarksStudentsTableViewCell" customModule="SchoolZoneTeacher" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="318" height="65"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="318" height="64.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="oxa-Cm-Pje">
+                        <rect key="frame" x="10" y="10" width="298" height="55"/>
+                        <subviews>
+                            <imageView contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="norecordfound" translatesAutoresizingMaskIntoConstraints="NO" id="mrv-sG-Y43">
+                                <rect key="frame" x="8" y="8" width="40" height="40"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="40" id="zq5-Lq-zcF"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Student Name" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Mbu-8H-fJ4">
+                                <rect key="frame" x="51" y="6" width="182" height="40"/>
+                                <fontDescription key="fontDescription" name="Helvetica-Bold" family="Helvetica" pointSize="14"/>
+                                <color key="textColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="hSa-NQ-yLr">
+                                <rect key="frame" x="241" y="15" width="51" height="31"/>
+                            </switch>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="mrv-sG-Y43" firstAttribute="top" secondItem="oxa-Cm-Pje" secondAttribute="topMargin" id="0YE-4A-nzU"/>
+                            <constraint firstItem="mrv-sG-Y43" firstAttribute="centerY" secondItem="oxa-Cm-Pje" secondAttribute="centerY" id="1nN-Oj-dkY"/>
+                            <constraint firstItem="Mbu-8H-fJ4" firstAttribute="leading" secondItem="mrv-sG-Y43" secondAttribute="trailing" constant="3" id="58O-Gw-zod"/>
+                            <constraint firstItem="mrv-sG-Y43" firstAttribute="leading" secondItem="oxa-Cm-Pje" secondAttribute="leadingMargin" id="60E-OQ-yAK"/>
+                            <constraint firstItem="Mbu-8H-fJ4" firstAttribute="top" secondItem="oxa-Cm-Pje" secondAttribute="top" constant="6" id="9he-5F-b38"/>
+                            <constraint firstItem="hSa-NQ-yLr" firstAttribute="trailing" secondItem="oxa-Cm-Pje" secondAttribute="trailingMargin" id="An7-VQ-CsI"/>
+                            <constraint firstItem="hSa-NQ-yLr" firstAttribute="top" secondItem="oxa-Cm-Pje" secondAttribute="top" constant="15" id="Cqa-w1-u7q"/>
+                            <constraint firstItem="hSa-NQ-yLr" firstAttribute="leading" secondItem="Mbu-8H-fJ4" secondAttribute="trailing" constant="8" symbolic="YES" id="PAM-cs-dba"/>
+                            <constraint firstItem="Mbu-8H-fJ4" firstAttribute="bottom" secondItem="hSa-NQ-yLr" secondAttribute="bottom" id="ihs-Ff-Klg"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottomMargin" secondItem="oxa-Cm-Pje" secondAttribute="bottom" constant="-11" id="6gv-Ta-KgG"/>
+                    <constraint firstItem="oxa-Cm-Pje" firstAttribute="centerX" secondItem="H2p-sc-9uM" secondAttribute="centerX" id="Dg9-aG-BgB"/>
+                    <constraint firstItem="oxa-Cm-Pje" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leadingMargin" constant="-6" id="RGO-Ri-zK6"/>
+                    <constraint firstItem="oxa-Cm-Pje" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="topMargin" constant="-1" id="iGy-Zf-z0W"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="containerView" destination="oxa-Cm-Pje" id="ZFH-T7-Nwc"/>
+                <outlet property="profileImageView" destination="mrv-sG-Y43" id="eYA-jO-DOh"/>
+                <outlet property="switchStudent" destination="hSa-NQ-yLr" id="OeJ-ry-Qa7"/>
+                <outlet property="textStudentName" destination="Mbu-8H-fJ4" id="6PD-Rx-p5M"/>
+            </connections>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="norecordfound" width="101" height="77"/>
+    </resources>
+</document>
