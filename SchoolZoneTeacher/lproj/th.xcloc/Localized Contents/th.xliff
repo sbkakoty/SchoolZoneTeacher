@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="SchoolZoneTeacher/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="th">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
+    </header>
+    <body>
+      <trans-unit id="8IW-nA-ZbM.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "8IW-nA-ZbM";</note>
+      </trans-unit>
+      <trans-unit id="8of-Wm-Y6u.text">
+        <source>Terms &amp; Conditions</source>
+        <target>ข้อตกลงและเงื่อนไข</target>
+        <note>Class = "UILabel"; text = "Terms &amp; Conditions"; ObjectID = "8of-Wm-Y6u";</note>
+      </trans-unit>
+      <trans-unit id="8pB-UJ-Pvw.title">
+        <source>News</source>
+        <target>ข่าว</target>
+        <note>Class = "UIViewController"; title = "News"; ObjectID = "8pB-UJ-Pvw";</note>
+      </trans-unit>
+      <trans-unit id="11J-DJ-WmA.text">
+        <source>www.OurSchoolZone.org</source>
+        <target>www.OurSchoolZone.org</target>
+        <note>Class = "UILabel"; text = "www.OurSchoolZone.org"; ObjectID = "11J-DJ-WmA";</note>
+      </trans-unit>
+      <trans-unit id="138-as-FuU.text">
+        <source>Completion date</source>
+        <target>Completion date</target>
+        <note>Class = "UILabel"; text = "Completion date"; ObjectID = "138-as-FuU";</note>
+      </trans-unit>
+      <trans-unit id="AHp-DY-Km4.text">
+        <source>Date</source>
+        <target>Date</target>
+        <note>Class = "UILabel"; text = "Date"; ObjectID = "AHp-DY-Km4";</note>
+      </trans-unit>
+      <trans-unit id="AOu-fY-cXc.normalTitle">
+        <source>Class Time table</source>
+        <target>Class Time table</target>
+        <note>Class = "UIButton"; normalTitle = "Class Time table"; ObjectID = "AOu-fY-cXc";</note>
+      </trans-unit>
+      <trans-unit id="Cjm-SX-NO5.text">
+        <source>Subject</source>
+        <target>Subject</target>
+        <note>Class = "UILabel"; text = "Subject"; ObjectID = "Cjm-SX-NO5";</note>
+      </trans-unit>
+      <trans-unit id="Dad-69-pHn.text">
+        <source>completiondate</source>
+        <target>completiondate</target>
+        <note>Class = "UILabel"; text = "completiondate"; ObjectID = "Dad-69-pHn";</note>
+      </trans-unit>
+      <trans-unit id="EDS-Yj-7hG.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "EDS-Yj-7hG";</note>
+      </trans-unit>
+      <trans-unit id="Ep5-92-W2S.text">
+        <source>Class Name</source>
+        <target>Class Name</target>
+        <note>Class = "UILabel"; text = "Class Name"; ObjectID = "Ep5-92-W2S";</note>
+      </trans-unit>
+      <trans-unit id="EsT-0b-qKW.text">
+        <source>Subject Name</source>
+        <target>Subject Name</target>
+        <note>Class = "UILabel"; text = "Subject Name"; ObjectID = "EsT-0b-qKW";</note>
+      </trans-unit>
+      <trans-unit id="IPO-SE-nMc.normalTitle">
+        <source>Continue</source>
+        <target>Continue</target>
+        <note>Class = "UIButton"; normalTitle = "Continue"; ObjectID = "IPO-SE-nMc";</note>
+      </trans-unit>
+      <trans-unit id="JZ7-Wl-Ll6.text">
+        <source>Book Name</source>
+        <target>Book Name</target>
+        <note>Class = "UILabel"; text = "Book Name"; ObjectID = "JZ7-Wl-Ll6";</note>
+      </trans-unit>
+      <trans-unit id="L6q-Bc-Mn9.normalTitle">
+        <source>View Attachment</source>
+        <target>View Attachment</target>
+        <note>Class = "UIButton"; normalTitle = "View Attachment"; ObjectID = "L6q-Bc-Mn9";</note>
+      </trans-unit>
+      <trans-unit id="LoD-qc-E0Z.text">
+        <source>Subject Name</source>
+        <target>Subject Name</target>
+        <note>Class = "UILabel"; text = "Subject Name"; ObjectID = "LoD-qc-E0Z";</note>
+      </trans-unit>
+      <trans-unit id="MbT-Px-5Ai.text">
+        <source>Class</source>
+        <target>Class</target>
+        <note>Class = "UILabel"; text = "Class"; ObjectID = "MbT-Px-5Ai";</note>
+      </trans-unit>
+      <trans-unit id="Mfc-mu-eUh.text">
+        <source>Subject</source>
+        <target>Subject</target>
+        <note>Class = "UILabel"; text = "Subject"; ObjectID = "Mfc-mu-eUh";</note>
+      </trans-unit>
+      <trans-unit id="OTS-cE-gef.text">
+        <source>1</source>
+        <target>1</target>
+        <note>Class = "UILabel"; text = "1"; ObjectID = "OTS-cE-gef";</note>
+      </trans-unit>
+      <trans-unit id="R5Q-Fa-0g6.normalTitle">
+        <source>Examination</source>
+        <target>Examination</target>
+        <note>Class = "UIButton"; normalTitle = "Examination"; ObjectID = "R5Q-Fa-0g6";</note>
+      </trans-unit>
+      <trans-unit id="R42-g8-kHX.text">
+        <source>Class</source>
+        <target>Class</target>
+        <note>Class = "UILabel"; text = "Class"; ObjectID = "R42-g8-kHX";</note>
+      </trans-unit>
+      <trans-unit id="RPd-Ox-XvZ.normalTitle">
+        <source>X</source>
+        <target>X</target>
+        <note>Class = "UIButton"; normalTitle = "X"; ObjectID = "RPd-Ox-XvZ";</note>
+      </trans-unit>
+      <trans-unit id="Rpd-5a-WjY.text">
+        <source>Chapter Index</source>
+        <target>Chapter Index</target>
+        <note>Class = "UILabel"; text = "Chapter Index"; ObjectID = "Rpd-5a-WjY";</note>
+      </trans-unit>
+      <trans-unit id="S4Z-zP-h8a.normalTitle">
+        <source>Books</source>
+        <target>Books</target>
+        <note>Class = "UIButton"; normalTitle = "Books"; ObjectID = "S4Z-zP-h8a";</note>
+      </trans-unit>
+      <trans-unit id="SFc-hB-zfi.text">
+        <source>Date</source>
+        <target>Date</target>
+        <note>Class = "UILabel"; text = "Date"; ObjectID = "SFc-hB-zfi";</note>
+      </trans-unit>
+      <trans-unit id="SQE-3c-Zoq.text">
+        <source>Chapter</source>
+        <target>Chapter</target>
+        <note>Class = "UILabel"; text = "Chapter"; ObjectID = "SQE-3c-Zoq";</note>
+      </trans-unit>
+      <trans-unit id="TnG-zK-k3C.text">
+        <source>Agreement to use SchoolZone Mobile App</source>
+        <target>Agreement to use SchoolZone Mobile App</target>
+        <note>Class = "UILabel"; text = "Agreement to use SchoolZone Mobile App"; ObjectID = "TnG-zK-k3C";</note>
+      </trans-unit>
+      <trans-unit id="UJO-rV-4vK.text">
+        <source>Book Name</source>
+        <target>Book Name</target>
+        <note>Class = "UILabel"; text = "Book Name"; ObjectID = "UJO-rV-4vK";</note>
+      </trans-unit>
+      <trans-unit id="UOT-8n-tmZ.text">
+        <source>Chapter</source>
+        <target>Chapter</target>
+        <note>Class = "UILabel"; text = "Chapter"; ObjectID = "UOT-8n-tmZ";</note>
+      </trans-unit>
+      <trans-unit id="XX1-KE-mmS.text">
+        <source>Chapter Name</source>
+        <target>Chapter Name</target>
+        <note>Class = "UILabel"; text = "Chapter Name"; ObjectID = "XX1-KE-mmS";</note>
+      </trans-unit>
+      <trans-unit id="ZkX-oU-3hR.text">
+        <source>Class Name</source>
+        <target>Class Name</target>
+        <note>Class = "UILabel"; text = "Class Name"; ObjectID = "ZkX-oU-3hR";</note>
+      </trans-unit>
+      <trans-unit id="b1j-6G-x7L.text">
+        <source>Book Title</source>
+        <target>Book Title</target>
+        <note>Class = "UILabel"; text = "Book Title"; ObjectID = "b1j-6G-x7L";</note>
+      </trans-unit>
+      <trans-unit id="bSU-un-Qx0.text">
+        <source>Chapter Name</source>
+        <target>Chapter Name</target>
+        <note>Class = "UILabel"; text = "Chapter Name"; ObjectID = "bSU-un-Qx0";</note>
+      </trans-unit>
+      <trans-unit id="clZ-sT-KRe.text">
+        <source>Chapter Index</source>
+        <target>Chapter Index</target>
+        <note>Class = "UILabel"; text = "Chapter Index"; ObjectID = "clZ-sT-KRe";</note>
+      </trans-unit>
+      <trans-unit id="cwC-1x-Xbz.normalTitle">
+        <source>Absent Report</source>
+        <target>Absent Report</target>
+        <note>Class = "UIButton"; normalTitle = "Absent Report"; ObjectID = "cwC-1x-Xbz";</note>
+      </trans-unit>
+      <trans-unit id="dWl-G1-Yuu.normalTitle">
+        <source>Remarks</source>
+        <target>Remarks</target>
+        <note>Class = "UIButton"; normalTitle = "Remarks"; ObjectID = "dWl-G1-Yuu";</note>
+      </trans-unit>
+      <trans-unit id="dag-zJ-6sP.normalTitle">
+        <source>Select</source>
+        <target>Select</target>
+        <note>Class = "UIButton"; normalTitle = "Select"; ObjectID = "dag-zJ-6sP";</note>
+      </trans-unit>
+      <trans-unit id="fFs-JF-vkE.text">
+        <source>news title</source>
+        <target>news title</target>
+        <note>Class = "UILabel"; text = "news title"; ObjectID = "fFs-JF-vkE";</note>
+      </trans-unit>
+      <trans-unit id="hAR-8d-Gek.text">
+        <source>news date</source>
+        <target>news date</target>
+        <note>Class = "UILabel"; text = "news date"; ObjectID = "hAR-8d-Gek";</note>
+      </trans-unit>
+      <trans-unit id="isp-b1-nVz.text">
+        <source>Class Name</source>
+        <target>Class Name</target>
+        <note>Class = "UILabel"; text = "Class Name"; ObjectID = "isp-b1-nVz";</note>
+      </trans-unit>
+      <trans-unit id="j4x-w8-oWo.normalTitle">
+        <source>View Attachment</source>
+        <target>View Attachment</target>
+        <note>Class = "UIButton"; normalTitle = "View Attachment"; ObjectID = "j4x-w8-oWo";</note>
+      </trans-unit>
+      <trans-unit id="j32-jC-cAY.text">
+        <source>Wed, Apr 25</source>
+        <target>Wed, Apr 25</target>
+        <note>Class = "UILabel"; text = "Wed, Apr 25"; ObjectID = "j32-jC-cAY";</note>
+      </trans-unit>
+      <trans-unit id="k0N-rF-0aS.text">
+        <source>Subject</source>
+        <target>Subject</target>
+        <note>Class = "UILabel"; text = "Subject"; ObjectID = "k0N-rF-0aS";</note>
+      </trans-unit>
+      <trans-unit id="kaU-Ta-lC1.text">
+        <source>textRemarks</source>
+        <target>textRemarks</target>
+        <note>Class = "UITextView"; text = "textRemarks"; ObjectID = "kaU-Ta-lC1";</note>
+      </trans-unit>
+      <trans-unit id="kia-h6-vaT.text">
+        <source>Subject Name</source>
+        <target>Subject Name</target>
+        <note>Class = "UILabel"; text = "Subject Name"; ObjectID = "kia-h6-vaT";</note>
+      </trans-unit>
+      <trans-unit id="l3Q-ly-6Sl.text">
+        <source>Book Title</source>
+        <target>Book Title</target>
+        <note>Class = "UILabel"; text = "Book Title"; ObjectID = "l3Q-ly-6Sl";</note>
+      </trans-unit>
+      <trans-unit id="mLN-gF-ZN2.text">
+        <source>description</source>
+        <target>description</target>
+        <note>Class = "UITextView"; text = "description"; ObjectID = "mLN-gF-ZN2";</note>
+      </trans-unit>
+      <trans-unit id="nNX-sY-p6T.normalTitle">
+        <source>Announcement</source>
+        <target>Announcement</target>
+        <note>Class = "UIButton"; normalTitle = "Announcement"; ObjectID = "nNX-sY-p6T";</note>
+      </trans-unit>
+      <trans-unit id="orb-rK-Jwq.normalTitle">
+        <source>View Attachment</source>
+        <target>View Attachment</target>
+        <note>Class = "UIButton"; normalTitle = "View Attachment"; ObjectID = "orb-rK-Jwq";</note>
+      </trans-unit>
+      <trans-unit id="ox1-4G-PRi.text">
+        <source>Date</source>
+        <target>Date</target>
+        <note>Class = "UILabel"; text = "Date"; ObjectID = "ox1-4G-PRi";</note>
+      </trans-unit>
+      <trans-unit id="pSH-Eo-XnZ.text">
+        <source>ClearWin Technologies Inc. (“ClearWin“, “we” or “us”)  of 160 S Old Springs RD, Anaheim, Ca , USA provides a platform called School-Zone to enable you to deploy and manage smart phone and tablet applications (each a “Mobile Application”) for your organization “            ” , _and mobile website solutions (each a “Mobile Site”) www.OurSchoolZone.org as well as related hosting and support services (the “Service”) to help schools and PTA to be strengthened financially by staying connected with parents, students, teachers and contributors to make fund raising process easier and more. As used in this document “Mobile Offering” means the Mobile Applications and Mobile Sites. By using the http://www.ourschoolzone.org web site (“Site”) and/or the Service, you are agreeing to be bound by the following terms and conditions (“Terms of Service”).
+
+
+School-Zone reserves the right to update and change the Terms of Service from time to time without advance notice. If we modify these Terms of Service, we will post the modification on the Site or provide you with notice of the modification. We will also update the “Last Updated Date” at the top of these Terms of Service or on the Site. Any new features that augment or enhance the current Service, including the release of new tools and resources, shall be subject to the Terms of Service. By continuing to access or use the Site and Service after we have posted a modification to these Terms of Service on the Site or have provided you with notice of a modification, you are indicating that you agree to be bound by the modified Terms of Service. If the modified Terms of Service are not acceptable to you, your only recourse is to cease using the Site and Service. You can review the most current version of the Terms of Service at any time at: http://School-Zone.Net/terms/. Violation of any of the terms below will result in the termination of your Account. You agree to use the Service at your own risk and subject to the terms set forth below.
+
+Account Terms
+
+You must be 18 years or older and must be approved by your organization to use this Service and open an account (“Account”).
+
+You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
+
+You must provide your legal full name, a valid email address, and any other information requested in order to complete the signup process to open an Account.
+
+You are responsible for maintaining the security of your Account and password. School-Zone cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
+
+School-Zone will be the sole publisher of your Mobile Applications with any mobile platform provider including, but not limited to, for the Android Market, but excluding Apple Computer, Inc. (“Apple”). Such mobile platform providers are referred to in these Terms of Service, as “Providers” and you may not use your own Account to publish a Mobile Application with any such Providers. As noted above, Apple is not considered a Provider under these Terms of Service and consequently, if you use the Service to develop a Mobile Application for the platforms and operating systems for the mobile devices of Apple then you must enter into a separate agreement with Apple directly in this regard to become an Apple application developer and you and not School-Zone will be the publisher of your Mobile Applications for Apple mobile devices. Notwithstanding the foregoing, you agree, to provide School-Zone with full access to the account you create with Apple by providing School-Zone with your Apple account login details (e.g. email address/password) so that School-Zone may (i) initially publish your Apple Mobile Application, (ii) upgrade your Apple Mobile Applications when School-Zone releases new versions of the Service, and (iii) track all revenue by you relating to such Apple Mobile Application and account for such revenues in the context of the Service.
+
+You are responsible for all text, data, graphics, images, photos and video files posted on the Site or via the Service (“Content”) and activity that occurs under your Account (even when Content is posted by others who have access to your Account). Your Content includes any advertisements sourced and/or made available by you via the content management system.
+
+You may not use the Service for any illegal or unauthorized purpose. You must not, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright and privacy laws).
+
+See School-Zone’ Privacy Policy for information and notices concerning School-Zone’s collection and use of your personal information and that of end users.
+
+Payments and Refund Terms
+
+The School-Zone app is Free. There is no charge or fee for the school to utilize the app. Once accounts created, your school can download and use the app immediately. The back office, where you can instantaneously update content, is free as well. To help schools implement this quickly, our modest operating costs and fees are earned, over the long-term, through different avenues.
+
+There will be 6% transaction fee for each payment made via the School-Zone application. These can be setup as recurring monthly payments, during the School year.
+
+Schools/PTA’sl sell ads to local business. Business Ads-20% per ad, per month, payable when the ad is uploaded to the Phone. Ads are displayed at the top of the phone app, with the ability to click to call the company or access the company’s website. This is a rotating banner that changes every 5 seconds. Schools can have as many business ads as they see fit to sell to their business community who=to support the School. Ad art is provided by the business and uploaded by the school, in the back office.
+
+Fundraising – School-Zone will charge a service charge of 6% for the donation. This includes PayPal’s Processing fee.  Funds are available immediately, and donors will have the option to pay the additional 6%, so that their full-intended donation goes to the school.
+
+All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes, levies, or duties, excluding only United States (federal or state) taxes.
+
+ School-Zone will use commercially reasonable efforts to have the Mobile Application approved by the applicable Providers (Apple Inc. Google Inc.). Although there is a high likelihood of approval, we do not and cannot guarantee acceptance. If the appropriate Provider denies your Mobile Application, you may cancel your Account. However, there are no refunds under any circumstances.
+
+ If invoiced, payment is due upon receipt.
+
+Cancellation and Termination
+
+You are solely responsible for properly canceling your Account. Account cancellation requests must be submitted via http://www.ourschoolzone.org/contact-us Cancellations by phone or sent via any other means will not be considered valid.
+
+All of your Content will be deleted from the Service upon cancellation. This information cannot be recovered once your Account is cancelled.
+
+If you cancel the Service before the end of your current paid up month, your cancellation will take effect immediately and you will not be charged again.
+
+School-Zone, in its sole discretion, has the right to suspend or terminate your Account and refuse any and all current or future use of the Service, or any other School-Zone service, for any reason at any time. The reasons we might do this include your violation of these Terms of Service. Such termination of the Service will result in the deactivation or deletion of your Account or your access to your Account, and the forfeiture and relinquishment of all content in your Account.
+
+School-Zone reserves the right to refuse service to anyone for any reason at any time.
+
+Modifications to the Service and Prices
+
+School-Zone reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without prior notice.
+
+Prices for the Service, including but not limited to subscription plan fees etc. (if any) to the Service, are subject to change upon 30 days notice from us. Such notice may be provided at any time by posting the changes to the Site or via the Service itself.
+
+School-Zone shall not be liable to you or to any third party for any of the actions or inactions of its third party business partners regarding modification, price changes, suspension or discontinuance of the services of such third party business partners which work or integrate with the Service.
+
+From time to time, School-Zone may issue an update to the Service, which may add, modify, and/or remove features from the Service. These updates may be pushed out automatically with little or no notice, although School-Zone will make commercially reasonable efforts to notify you in advance of an upcoming update, including details on what the update includes.
+
+License Grant, Copyright and Content Ownership
+
+You hereby grant to School-Zone a worldwide, irrevocable, perpetual, non-exclusive, transferable, royalty-free license, with the right to sublicense, to use, access, view, copy, adapt, modify, distribute, transfer, publicly display, publicly perform, transmit, stream, broadcast and otherwise exploit such Content in any and all media now and in the future, for any purpose relating to the Service. School-Zone does not claim any ownership rights in your Content and nothing in these Terms of Service will be deemed to restrict any rights that you may have to use and exploit any such Content.
+
+We claim no intellectual property rights over your Content. Your profile and materials uploaded by you remain yours. However, by using the Service to create your Mobile Offering, you agree to allow others to view and share your Content via your Mobile Offering.
+
+School-Zone does not pre-screen Content, but School-Zone and its designee have the right (but not the obligation) in their sole discretion to refuse or remove any Content that is available via the Service.
+
+Copyright, trademark, and other laws of the United States and foreign countries protect the Site, Mobile App and the Service, including their “look and feel”. School-Zone exclusively owns all right, title and interest in and to the Site. Mobile App and the Service, including all associated intellectual property rights. Without limiting the foregoing, you may not duplicate, copy, or reuse any portion of the HTML/CSS/App Code or visual design elements of the Site. Mobile App or the Service without express had written permission from School-Zone.
+
+General Conditions
+
+You agree that you will not post, upload, publish, submit or transmit any Content that:
+
+Infringes, misappropriates or violates a third party’s patent, copyright, trademark, trade secret, moral rights or other intellectual property rights, or rights of publicity or privacy; (ii) violates, or encourages any conduct that would violate, any applicable law or regulation or would give rise to civil liability; (iii) is fraudulent, false, misleading or deceptive; (iv) is targeted to children or may be deemed “directed to children” as the term is defined under Children’s Online Privacy Protection Act of 1998; (v) is defamatory, obscene, pornographic, vulgar or offensive; (vi) promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group; (vii) is violent or threatening or promotes violence or actions that are threatening to any person or entity; or (viii) promotes illegal or harmful activities or substances.
+
+School-Zone reserves the right, at any time and without prior notice, to remove or disable access to any Content and Accounts we determine in our sole discretion to be in violation of these Terms or otherwise harmful to the Site or Service.
+
+You understand that School-Zone uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Service.
+
+You must not modify, adapt or hack the Service or modify another website so as to falsely imply that it is associated with the Service, or any other School-Zone service.
+
+You agree not to reproduce, duplicate, copy, reverse engineer, sell, resell or exploit any portion of the Service, Mobile App, Mobile App Functionality, use of the Service, or access to the Service without the express written permission by School-Zone.
+
+Verbal, physical, written or other abuse (including threats of abuse or retribution) of any School-Zone customer, employee, member, or officer will result in immediate Account termination.
+
+You understand that the technical processing and transmission of the Service, including your Content, may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
+
+You must not upload, post, host, or transmit unsolicited email, SMSs, or “spam”messages.
+
+You must not transmit any worms or viruses or any code of a destructive nature.
+
+ 
+
+Disclaimers
+
+Your use of the Service is at your sole risk. THE SERVICE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. SCHOOL-ZONE EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, EXPRESS, IMPLIED OR STATUTORY, RELATING TO THE SITE, SERVICES, CONTENT AND USER SUBMISSIONS, INCLUDING WITHOUT LIMITATION THE WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OF PROPRIETARY RIGHTS, COURSE OF DEALING OR COURSE OF PERFORMANCE. School-Zone does not warrant that (i) the Service will meet your specific requirements, (ii) the Service will be uninterrupted, timely, secure, or error-free, (iii) the results that may be obtained from the use of the Service will be accurate or reliable, (iv) the quality of any products, services, information, or other material purchased or obtained by you through the Service will meet your expectations, and (v) any errors in the Service will be corrected.
+
+Indemnity
+
+You agree to defend, indemnify, and hold School-Zone, its officers, directors, employees and agents, harmless from and against any claims, liabilities, damages, losses, and expenses, including without limitation reasonable attorney’s fees and costs, arising out of or in any way connected with (i) your access to or use of the Site or the Service; (ii) your violation of these Terms of Service; or (iii) your violation of any third party right, including without limitation any intellectual property right, publicity, confidentiality, property or privacy right by you or your Mobile Offering.
+
+Limitation of Liability
+
+You expressly understand and agree that School-Zone shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if School-Zone has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the Service; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the Service; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third party on the Service; (v) or any other matter relating to the Service. In no event shall School-Zone’s liability to you exceed the amount actually paid to School-Zone by you during the preceding 6 months.
+
+Governing Law
+
+These Terms of Service and any action related thereto will be governed by the laws of the State of California without regard to its conflict of laws provisions.
+
+Dispute Resolution
+
+You will resolve any claim, cause of action or dispute (claim) you have with us arising out of or relating to this Statement or School-Zone exclusively in a state or federal court located in Orange County. The laws of the State of California will govern this Statement, as well as any claim that might arise between you and us, without regard to conflict of law provisions.
+
+If anyone brings a claim against us related to your actions, content or information on School-Zone, you will indemnify and hold us harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to such claim. Although we provide rules for user conduct, we do not control or direct users’ actions on School-Zone and are not responsible for the content or information users transmit or share on School-Zone. We are not responsible for any offensive, inappropriate, obscene, unlawful or otherwise objectionable content or information on School-Zone. We are not responsible for the conduct, whether online or offline, or any user of School-Zone.
+
+WE TRY TO KEEP SCHOOL-ZONE UP, BUG-FREE, AND SAFE, BUT YOU USE IT AT YOUR OWN RISK. WE ARE PROVIDING SCHOOL-ZONE AS IS WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT GUARANTEE THAT SCHOOL-ZONE WILL ALWAYS BE SAFE, SECURE OR ERROR-FREE OR THAT SCHOOL-ZONE WILL ALWAYS FUNCTION WITHOUT DISRUPTIONS, DELAYS OR IMPERFECTIONS. SCHOOL-ZONE IS NOT RESPONSIBLE FOR THE ACTIONS, CONTENT, INFORMATION, OR DATA OF THIRD PARTIES, AND YOU RELEASE US, OUR DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS FROM ANY CLAIMS AND DAMAGES, KNOWN AND UNKNOWN, ARISING OUT OF OR IN ANY WAY CONNECTED WITH ANY CLAIM YOU HAVE AGAINST ANY SUCH THIRD PARTIES. IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE, WHICH SAYS: A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR. WE WILL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR OTHER
+
+CONSEQUENTIAL, SPECIAL, INDIRECT, OR INCIDENTAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS STATEMENT OR SCHOOL-ZONE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR AGGREGATE LIABILITY ARISING OUT OF THIS STATEMENT OR SCHOOL-ZONE WILL NOT EXCEED THE GREATER OF ONE HUNDRED DOLLARS ($100) OR THE AMOUNT YOU HAVE PAID US IN THE PAST TWELVE MONTHS. APPLICABLE LAW MAY NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY OR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. IN SUCH CASES, SCHOOL-ZONE LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
+
+General
+
+The failure of School-Zone to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and School-Zone and govern your use of the Service, superseding any prior agreements between you and School-Zone (including, but not limited to, any prior versions of the Terms of Service). If for any reason a court of competent jurisdiction finds any provision of these Terms of Service invalid or unenforceable, that provision will be enforced to the maximum extent permissible and the other provisions of these Terms of Service with remain in full force and effect.
+
+You acknowledge and agree that you are each waiving the right to participate as a plaintiff or class member in any purported class action or representative proceeding. Further, more than one person’s claims may not be consolidated under any circumstances, in any form of any class or representative proceeding or otherwise.
+
+Contacting School-Zone; Technical Support
+
+Questions about the Terms of Service or for general technical support information you may visit http://www.ourschoolzone.org/contact-us . If you have purchased an upgraded support package, please contact us via the phone number provided to you. </source>
+        <target>ClearWin Technologies Inc. (“ClearWin“, “we” or “us”)  of 160 S Old Springs RD, Anaheim, Ca , USA provides a platform called School-Zone to enable you to deploy and manage smart phone and tablet applications (each a “Mobile Application”) for your organization “            ” , _and mobile website solutions (each a “Mobile Site”) www.OurSchoolZone.org as well as related hosting and support services (the “Service”) to help schools and PTA to be strengthened financially by staying connected with parents, students, teachers and contributors to make fund raising process easier and more. As used in this document “Mobile Offering” means the Mobile Applications and Mobile Sites. By using the http://www.ourschoolzone.org web site (“Site”) and/or the Service, you are agreeing to be bound by the following terms and conditions (“Terms of Service”).
+
+
+School-Zone reserves the right to update and change the Terms of Service from time to time without advance notice. If we modify these Terms of Service, we will post the modification on the Site or provide you with notice of the modification. We will also update the “Last Updated Date” at the top of these Terms of Service or on the Site. Any new features that augment or enhance the current Service, including the release of new tools and resources, shall be subject to the Terms of Service. By continuing to access or use the Site and Service after we have posted a modification to these Terms of Service on the Site or have provided you with notice of a modification, you are indicating that you agree to be bound by the modified Terms of Service. If the modified Terms of Service are not acceptable to you, your only recourse is to cease using the Site and Service. You can review the most current version of the Terms of Service at any time at: http://School-Zone.Net/terms/. Violation of any of the terms below will result in the termination of your Account. You agree to use the Service at your own risk and subject to the terms set forth below.
+
+Account Terms
+
+You must be 18 years or older and must be approved by your organization to use this Service and open an account (“Account”).
+
+You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
+
+You must provide your legal full name, a valid email address, and any other information requested in order to complete the signup process to open an Account.
+
+You are responsible for maintaining the security of your Account and password. School-Zone cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
+
+School-Zone will be the sole publisher of your Mobile Applications with any mobile platform provider including, but not limited to, for the Android Market, but excluding Apple Computer, Inc. (“Apple”). Such mobile platform providers are referred to in these Terms of Service, as “Providers” and you may not use your own Account to publish a Mobile Application with any such Providers. As noted above, Apple is not considered a Provider under these Terms of Service and consequently, if you use the Service to develop a Mobile Application for the platforms and operating systems for the mobile devices of Apple then you must enter into a separate agreement with Apple directly in this regard to become an Apple application developer and you and not School-Zone will be the publisher of your Mobile Applications for Apple mobile devices. Notwithstanding the foregoing, you agree, to provide School-Zone with full access to the account you create with Apple by providing School-Zone with your Apple account login details (e.g. email address/password) so that School-Zone may (i) initially publish your Apple Mobile Application, (ii) upgrade your Apple Mobile Applications when School-Zone releases new versions of the Service, and (iii) track all revenue by you relating to such Apple Mobile Application and account for such revenues in the context of the Service.
+
+You are responsible for all text, data, graphics, images, photos and video files posted on the Site or via the Service (“Content”) and activity that occurs under your Account (even when Content is posted by others who have access to your Account). Your Content includes any advertisements sourced and/or made available by you via the content management system.
+
+You may not use the Service for any illegal or unauthorized purpose. You must not, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright and privacy laws).
+
+See School-Zone’ Privacy Policy for information and notices concerning School-Zone’s collection and use of your personal information and that of end users.
+
+Payments and Refund Terms
+
+The School-Zone app is Free. There is no charge or fee for the school to utilize the app. Once accounts created, your school can download and use the app immediately. The back office, where you can instantaneously update content, is free as well. To help schools implement this quickly, our modest operating costs and fees are earned, over the long-term, through different avenues.
+
+There will be 6% transaction fee for each payment made via the School-Zone application. These can be setup as recurring monthly payments, during the School year.
+
+Schools/PTA’sl sell ads to local business. Business Ads-20% per ad, per month, payable when the ad is uploaded to the Phone. Ads are displayed at the top of the phone app, with the ability to click to call the company or access the company’s website. This is a rotating banner that changes every 5 seconds. Schools can have as many business ads as they see fit to sell to their business community who=to support the School. Ad art is provided by the business and uploaded by the school, in the back office.
+
+Fundraising – School-Zone will charge a service charge of 6% for the donation. This includes PayPal’s Processing fee.  Funds are available immediately, and donors will have the option to pay the additional 6%, so that their full-intended donation goes to the school.
+
+All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes, levies, or duties, excluding only United States (federal or state) taxes.
+
+ School-Zone will use commercially reasonable efforts to have the Mobile Application approved by the applicable Providers (Apple Inc. Google Inc.). Although there is a high likelihood of approval, we do not and cannot guarantee acceptance. If the appropriate Provider denies your Mobile Application, you may cancel your Account. However, there are no refunds under any circumstances.
+
+ If invoiced, payment is due upon receipt.
+
+Cancellation and Termination
+
+You are solely responsible for properly canceling your Account. Account cancellation requests must be submitted via http://www.ourschoolzone.org/contact-us Cancellations by phone or sent via any other means will not be considered valid.
+
+All of your Content will be deleted from the Service upon cancellation. This information cannot be recovered once your Account is cancelled.
+
+If you cancel the Service before the end of your current paid up month, your cancellation will take effect immediately and you will not be charged again.
+
+School-Zone, in its sole discretion, has the right to suspend or terminate your Account and refuse any and all current or future use of the Service, or any other School-Zone service, for any reason at any time. The reasons we might do this include your violation of these Terms of Service. Such termination of the Service will result in the deactivation or deletion of your Account or your access to your Account, and the forfeiture and relinquishment of all content in your Account.
+
+School-Zone reserves the right to refuse service to anyone for any reason at any time.
+
+Modifications to the Service and Prices
+
+School-Zone reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without prior notice.
+
+Prices for the Service, including but not limited to subscription plan fees etc. (if any) to the Service, are subject to change upon 30 days notice from us. Such notice may be provided at any time by posting the changes to the Site or via the Service itself.
+
+School-Zone shall not be liable to you or to any third party for any of the actions or inactions of its third party business partners regarding modification, price changes, suspension or discontinuance of the services of such third party business partners which work or integrate with the Service.
+
+From time to time, School-Zone may issue an update to the Service, which may add, modify, and/or remove features from the Service. These updates may be pushed out automatically with little or no notice, although School-Zone will make commercially reasonable efforts to notify you in advance of an upcoming update, including details on what the update includes.
+
+License Grant, Copyright and Content Ownership
+
+You hereby grant to School-Zone a worldwide, irrevocable, perpetual, non-exclusive, transferable, royalty-free license, with the right to sublicense, to use, access, view, copy, adapt, modify, distribute, transfer, publicly display, publicly perform, transmit, stream, broadcast and otherwise exploit such Content in any and all media now and in the future, for any purpose relating to the Service. School-Zone does not claim any ownership rights in your Content and nothing in these Terms of Service will be deemed to restrict any rights that you may have to use and exploit any such Content.
+
+We claim no intellectual property rights over your Content. Your profile and materials uploaded by you remain yours. However, by using the Service to create your Mobile Offering, you agree to allow others to view and share your Content via your Mobile Offering.
+
+School-Zone does not pre-screen Content, but School-Zone and its designee have the right (but not the obligation) in their sole discretion to refuse or remove any Content that is available via the Service.
+
+Copyright, trademark, and other laws of the United States and foreign countries protect the Site, Mobile App and the Service, including their “look and feel”. School-Zone exclusively owns all right, title and interest in and to the Site. Mobile App and the Service, including all associated intellectual property rights. Without limiting the foregoing, you may not duplicate, copy, or reuse any portion of the HTML/CSS/App Code or visual design elements of the Site. Mobile App or the Service without express had written permission from School-Zone.
+
+General Conditions
+
+You agree that you will not post, upload, publish, submit or transmit any Content that:
+
+Infringes, misappropriates or violates a third party’s patent, copyright, trademark, trade secret, moral rights or other intellectual property rights, or rights of publicity or privacy; (ii) violates, or encourages any conduct that would violate, any applicable law or regulation or would give rise to civil liability; (iii) is fraudulent, false, misleading or deceptive; (iv) is targeted to children or may be deemed “directed to children” as the term is defined under Children’s Online Privacy Protection Act of 1998; (v) is defamatory, obscene, pornographic, vulgar or offensive; (vi) promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group; (vii) is violent or threatening or promotes violence or actions that are threatening to any person or entity; or (viii) promotes illegal or harmful activities or substances.
+
+School-Zone reserves the right, at any time and without prior notice, to remove or disable access to any Content and Accounts we determine in our sole discretion to be in violation of these Terms or otherwise harmful to the Site or Service.
+
+You understand that School-Zone uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Service.
+
+You must not modify, adapt or hack the Service or modify another website so as to falsely imply that it is associated with the Service, or any other School-Zone service.
+
+You agree not to reproduce, duplicate, copy, reverse engineer, sell, resell or exploit any portion of the Service, Mobile App, Mobile App Functionality, use of the Service, or access to the Service without the express written permission by School-Zone.
+
+Verbal, physical, written or other abuse (including threats of abuse or retribution) of any School-Zone customer, employee, member, or officer will result in immediate Account termination.
+
+You understand that the technical processing and transmission of the Service, including your Content, may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
+
+You must not upload, post, host, or transmit unsolicited email, SMSs, or “spam”messages.
+
+You must not transmit any worms or viruses or any code of a destructive nature.
+
+ 
+
+Disclaimers
+
+Your use of the Service is at your sole risk. THE SERVICE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. SCHOOL-ZONE EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, EXPRESS, IMPLIED OR STATUTORY, RELATING TO THE SITE, SERVICES, CONTENT AND USER SUBMISSIONS, INCLUDING WITHOUT LIMITATION THE WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OF PROPRIETARY RIGHTS, COURSE OF DEALING OR COURSE OF PERFORMANCE. School-Zone does not warrant that (i) the Service will meet your specific requirements, (ii) the Service will be uninterrupted, timely, secure, or error-free, (iii) the results that may be obtained from the use of the Service will be accurate or reliable, (iv) the quality of any products, services, information, or other material purchased or obtained by you through the Service will meet your expectations, and (v) any errors in the Service will be corrected.
+
+Indemnity
+
+You agree to defend, indemnify, and hold School-Zone, its officers, directors, employees and agents, harmless from and against any claims, liabilities, damages, losses, and expenses, including without limitation reasonable attorney’s fees and costs, arising out of or in any way connected with (i) your access to or use of the Site or the Service; (ii) your violation of these Terms of Service; or (iii) your violation of any third party right, including without limitation any intellectual property right, publicity, confidentiality, property or privacy right by you or your Mobile Offering.
+
+Limitation of Liability
+
+You expressly understand and agree that School-Zone shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if School-Zone has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the Service; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the Service; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third party on the Service; (v) or any other matter relating to the Service. In no event shall School-Zone’s liability to you exceed the amount actually paid to School-Zone by you during the preceding 6 months.
+
+Governing Law
+
+These Terms of Service and any action related thereto will be governed by the laws of the State of California without regard to its conflict of laws provisions.
+
+Dispute Resolution
+
+You will resolve any claim, cause of action or dispute (claim) you have with us arising out of or relating to this Statement or School-Zone exclusively in a state or federal court located in Orange County. The laws of the State of California will govern this Statement, as well as any claim that might arise between you and us, without regard to conflict of law provisions.
+
+If anyone brings a claim against us related to your actions, content or information on School-Zone, you will indemnify and hold us harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to such claim. Although we provide rules for user conduct, we do not control or direct users’ actions on School-Zone and are not responsible for the content or information users transmit or share on School-Zone. We are not responsible for any offensive, inappropriate, obscene, unlawful or otherwise objectionable content or information on School-Zone. We are not responsible for the conduct, whether online or offline, or any user of School-Zone.
+
+WE TRY TO KEEP SCHOOL-ZONE UP, BUG-FREE, AND SAFE, BUT YOU USE IT AT YOUR OWN RISK. WE ARE PROVIDING SCHOOL-ZONE AS IS WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT GUARANTEE THAT SCHOOL-ZONE WILL ALWAYS BE SAFE, SECURE OR ERROR-FREE OR THAT SCHOOL-ZONE WILL ALWAYS FUNCTION WITHOUT DISRUPTIONS, DELAYS OR IMPERFECTIONS. SCHOOL-ZONE IS NOT RESPONSIBLE FOR THE ACTIONS, CONTENT, INFORMATION, OR DATA OF THIRD PARTIES, AND YOU RELEASE US, OUR DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS FROM ANY CLAIMS AND DAMAGES, KNOWN AND UNKNOWN, ARISING OUT OF OR IN ANY WAY CONNECTED WITH ANY CLAIM YOU HAVE AGAINST ANY SUCH THIRD PARTIES. IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE, WHICH SAYS: A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR. WE WILL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR OTHER
+
+CONSEQUENTIAL, SPECIAL, INDIRECT, OR INCIDENTAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS STATEMENT OR SCHOOL-ZONE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR AGGREGATE LIABILITY ARISING OUT OF THIS STATEMENT OR SCHOOL-ZONE WILL NOT EXCEED THE GREATER OF ONE HUNDRED DOLLARS ($100) OR THE AMOUNT YOU HAVE PAID US IN THE PAST TWELVE MONTHS. APPLICABLE LAW MAY NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY OR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. IN SUCH CASES, SCHOOL-ZONE LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
+
+General
+
+The failure of School-Zone to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and School-Zone and govern your use of the Service, superseding any prior agreements between you and School-Zone (including, but not limited to, any prior versions of the Terms of Service). If for any reason a court of competent jurisdiction finds any provision of these Terms of Service invalid or unenforceable, that provision will be enforced to the maximum extent permissible and the other provisions of these Terms of Service with remain in full force and effect.
+
+You acknowledge and agree that you are each waiving the right to participate as a plaintiff or class member in any purported class action or representative proceeding. Further, more than one person’s claims may not be consolidated under any circumstances, in any form of any class or representative proceeding or otherwise.
+
+Contacting School-Zone; Technical Support
+
+Questions about the Terms of Service or for general technical support information you may visit http://www.ourschoolzone.org/contact-us . If you have purchased an upgraded support package, please contact us via the phone number provided to you. </target>
+        <note>Class = "UITextView"; text = "ClearWin Technologies Inc. (“ClearWin“, “we” or “us”)  of 160 S Old Springs RD, Anaheim, Ca , USA provides a platform called School-Zone to enable you to deploy and manage smart phone and tablet applications (each a “Mobile Application”) for your organization “            ” , _and mobile website solutions (each a “Mobile Site”) www.OurSchoolZone.org as well as related hosting and support services (the “Service”) to help schools and PTA to be strengthened financially by staying connected with parents, students, teachers and contributors to make fund raising process easier and more. As used in this document “Mobile Offering” means the Mobile Applications and Mobile Sites. By using the http://www.ourschoolzone.org web site (“Site”) and/or the Service, you are agreeing to be bound by the following terms and conditions (“Terms of Service”).\n\n\nSchool-Zone reserves the right to update and change the Terms of Service from time to time without advance notice. If we modify these Terms of Service, we will post the modification on the Site or provide you with notice of the modification. We will also update the “Last Updated Date” at the top of these Terms of Service or on the Site. Any new features that augment or enhance the current Service, including the release of new tools and resources, shall be subject to the Terms of Service. By continuing to access or use the Site and Service after we have posted a modification to these Terms of Service on the Site or have provided you with notice of a modification, you are indicating that you agree to be bound by the modified Terms of Service. If the modified Terms of Service are not acceptable to you, your only recourse is to cease using the Site and Service. You can review the most current version of the Terms of Service at any time at: http://School-Zone.Net/terms/. Violation of any of the terms below will result in the termination of your Account. You agree to use the Service at your own risk and subject to the terms set forth below.\n\nAccount Terms\n\nYou must be 18 years or older and must be approved by your organization to use this Service and open an account (“Account”).\n\nYou must be a human. Accounts registered by “bots” or other automated methods are not permitted.\n\nYou must provide your legal full name, a valid email address, and any other information requested in order to complete the signup process to open an Account.\n\nYou are responsible for maintaining the security of your Account and password. School-Zone cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.\n\nSchool-Zone will be the sole publisher of your Mobile Applications with any mobile platform provider including, but not limited to, for the Android Market, but excluding Apple Computer, Inc. (“Apple”). Such mobile platform providers are referred to in these Terms of Service, as “Providers” and you may not use your own Account to publish a Mobile Application with any such Providers. As noted above, Apple is not considered a Provider under these Terms of Service and consequently, if you use the Service to develop a Mobile Application for the platforms and operating systems for the mobile devices of Apple then you must enter into a separate agreement with Apple directly in this regard to become an Apple application developer and you and not School-Zone will be the publisher of your Mobile Applications for Apple mobile devices. Notwithstanding the foregoing, you agree, to provide School-Zone with full access to the account you create with Apple by providing School-Zone with your Apple account login details (e.g. email address/password) so that School-Zone may (i) initially publish your Apple Mobile Application, (ii) upgrade your Apple Mobile Applications when School-Zone releases new versions of the Service, and (iii) track all revenue by you relating to such Apple Mobile Application and account for such revenues in the context of the Service.\n\nYou are responsible for all text, data, graphics, images, photos and video files posted on the Site or via the Service (“Content”) and activity that occurs under your Account (even when Content is posted by others who have access to your Account). Your Content includes any advertisements sourced and/or made available by you via the content management system.\n\nYou may not use the Service for any illegal or unauthorized purpose. You must not, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright and privacy laws).\n\nSee School-Zone’ Privacy Policy for information and notices concerning School-Zone’s collection and use of your personal information and that of end users.\n\nPayments and Refund Terms\n\nThe School-Zone app is Free. There is no charge or fee for the school to utilize the app. Once accounts created, your school can download and use the app immediately. The back office, where you can instantaneously update content, is free as well. To help schools implement this quickly, our modest operating costs and fees are earned, over the long-term, through different avenues.\n\nThere will be 6% transaction fee for each payment made via the School-Zone application. These can be setup as recurring monthly payments, during the School year.\n\nSchools/PTA’sl sell ads to local business. Business Ads-20% per ad, per month, payable when the ad is uploaded to the Phone. Ads are displayed at the top of the phone app, with the ability to click to call the company or access the company’s website. This is a rotating banner that changes every 5 seconds. Schools can have as many business ads as they see fit to sell to their business community who=to support the School. Ad art is provided by the business and uploaded by the school, in the back office.\n\nFundraising – School-Zone will charge a service charge of 6% for the donation. This includes PayPal’s Processing fee.  Funds are available immediately, and donors will have the option to pay the additional 6%, so that their full-intended donation goes to the school.\n\nAll fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes, levies, or duties, excluding only United States (federal or state) taxes.\n\n School-Zone will use commercially reasonable efforts to have the Mobile Application approved by the applicable Providers (Apple Inc. Google Inc.). Although there is a high likelihood of approval, we do not and cannot guarantee acceptance. If the appropriate Provider denies your Mobile Application, you may cancel your Account. However, there are no refunds under any circumstances.\n\n If invoiced, payment is due upon receipt.\n\nCancellation and Termination\n\nYou are solely responsible for properly canceling your Account. Account cancellation requests must be submitted via http://www.ourschoolzone.org/contact-us Cancellations by phone or sent via any other means will not be considered valid.\n\nAll of your Content will be deleted from the Service upon cancellation. This information cannot be recovered once your Account is cancelled.\n\nIf you cancel the Service before the end of your current paid up month, your cancellation will take effect immediately and you will not be charged again.\n\nSchool-Zone, in its sole discretion, has the right to suspend or terminate your Account and refuse any and all current or future use of the Service, or any other School-Zone service, for any reason at any time. The reasons we might do this include your violation of these Terms of Service. Such termination of the Service will result in the deactivation or deletion of your Account or your access to your Account, and the forfeiture and relinquishment of all content in your Account.\n\nSchool-Zone reserves the right to refuse service to anyone for any reason at any time.\n\nModifications to the Service and Prices\n\nSchool-Zone reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without prior notice.\n\nPrices for the Service, including but not limited to subscription plan fees etc. (if any) to the Service, are subject to change upon 30 days notice from us. Such notice may be provided at any time by posting the changes to the Site or via the Service itself.\n\nSchool-Zone shall not be liable to you or to any third party for any of the actions or inactions of its third party business partners regarding modification, price changes, suspension or discontinuance of the services of such third party business partners which work or integrate with the Service.\n\nFrom time to time, School-Zone may issue an update to the Service, which may add, modify, and/or remove features from the Service. These updates may be pushed out automatically with little or no notice, although School-Zone will make commercially reasonable efforts to notify you in advance of an upcoming update, including details on what the update includes.\n\nLicense Grant, Copyright and Content Ownership\n\nYou hereby grant to School-Zone a worldwide, irrevocable, perpetual, non-exclusive, transferable, royalty-free license, with the right to sublicense, to use, access, view, copy, adapt, modify, distribute, transfer, publicly display, publicly perform, transmit, stream, broadcast and otherwise exploit such Content in any and all media now and in the future, for any purpose relating to the Service. School-Zone does not claim any ownership rights in your Content and nothing in these Terms of Service will be deemed to restrict any rights that you may have to use and exploit any such Content.\n\nWe claim no intellectual property rights over your Content. Your profile and materials uploaded by you remain yours. However, by using the Service to create your Mobile Offering, you agree to allow others to view and share your Content via your Mobile Offering.\n\nSchool-Zone does not pre-screen Content, but School-Zone and its designee have the right (but not the obligation) in their sole discretion to refuse or remove any Content that is available via the Service.\n\nCopyright, trademark, and other laws of the United States and foreign countries protect the Site, Mobile App and the Service, including their “look and feel”. School-Zone exclusively owns all right, title and interest in and to the Site. Mobile App and the Service, including all associated intellectual property rights. Without limiting the foregoing, you may not duplicate, copy, or reuse any portion of the HTML/CSS/App Code or visual design elements of the Site. Mobile App or the Service without express had written permission from School-Zone.\n\nGeneral Conditions\n\nYou agree that you will not post, upload, publish, submit or transmit any Content that:\n\nInfringes, misappropriates or violates a third party’s patent, copyright, trademark, trade secret, moral rights or other intellectual property rights, or rights of publicity or privacy; (ii) violates, or encourages any conduct that would violate, any applicable law or regulation or would give rise to civil liability; (iii) is fraudulent, false, misleading or deceptive; (iv) is targeted to children or may be deemed “directed to children” as the term is defined under Children’s Online Privacy Protection Act of 1998; (v) is defamatory, obscene, pornographic, vulgar or offensive; (vi) promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group; (vii) is violent or threatening or promotes violence or actions that are threatening to any person or entity; or (viii) promotes illegal or harmful activities or substances.\n\nSchool-Zone reserves the right, at any time and without prior notice, to remove or disable access to any Content and Accounts we determine in our sole discretion to be in violation of these Terms or otherwise harmful to the Site or Service.\n\nYou understand that School-Zone uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Service.\n\nYou must not modify, adapt or hack the Service or modify another website so as to falsely imply that it is associated with the Service, or any other School-Zone service.\n\nYou agree not to reproduce, duplicate, copy, reverse engineer, sell, resell or exploit any portion of the Service, Mobile App, Mobile App Functionality, use of the Service, or access to the Service without the express written permission by School-Zone.\n\nVerbal, physical, written or other abuse (including threats of abuse or retribution) of any School-Zone customer, employee, member, or officer will result in immediate Account termination.\n\nYou understand that the technical processing and transmission of the Service, including your Content, may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices.\n\nYou must not upload, post, host, or transmit unsolicited email, SMSs, or “spam”messages.\n\nYou must not transmit any worms or viruses or any code of a destructive nature.\n\n \n\nDisclaimers\n\nYour use of the Service is at your sole risk. THE SERVICE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. SCHOOL-ZONE EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, EXPRESS, IMPLIED OR STATUTORY, RELATING TO THE SITE, SERVICES, CONTENT AND USER SUBMISSIONS, INCLUDING WITHOUT LIMITATION THE WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OF PROPRIETARY RIGHTS, COURSE OF DEALING OR COURSE OF PERFORMANCE. School-Zone does not warrant that (i) the Service will meet your specific requirements, (ii) the Service will be uninterrupted, timely, secure, or error-free, (iii) the results that may be obtained from the use of the Service will be accurate or reliable, (iv) the quality of any products, services, information, or other material purchased or obtained by you through the Service will meet your expectations, and (v) any errors in the Service will be corrected.\n\nIndemnity\n\nYou agree to defend, indemnify, and hold School-Zone, its officers, directors, employees and agents, harmless from and against any claims, liabilities, damages, losses, and expenses, including without limitation reasonable attorney’s fees and costs, arising out of or in any way connected with (i) your access to or use of the Site or the Service; (ii) your violation of these Terms of Service; or (iii) your violation of any third party right, including without limitation any intellectual property right, publicity, confidentiality, property or privacy right by you or your Mobile Offering.\n\nLimitation of Liability\n\nYou expressly understand and agree that School-Zone shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if School-Zone has been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the Service; (ii) the cost of procurement of substitute goods and services resulting from any goods, data, information or services purchased or obtained or messages received or transactions entered into through or from the Service; (iii) unauthorized access to or alteration of your transmissions or data; (iv) statements or conduct of any third party on the Service; (v) or any other matter relating to the Service. In no event shall School-Zone’s liability to you exceed the amount actually paid to School-Zone by you during the preceding 6 months.\n\nGoverning Law\n\nThese Terms of Service and any action related thereto will be governed by the laws of the State of California without regard to its conflict of laws provisions.\n\nDispute Resolution\n\nYou will resolve any claim, cause of action or dispute (claim) you have with us arising out of or relating to this Statement or School-Zone exclusively in a state or federal court located in Orange County. The laws of the State of California will govern this Statement, as well as any claim that might arise between you and us, without regard to conflict of law provisions.\n\nIf anyone brings a claim against us related to your actions, content or information on School-Zone, you will indemnify and hold us harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to such claim. Although we provide rules for user conduct, we do not control or direct users’ actions on School-Zone and are not responsible for the content or information users transmit or share on School-Zone. We are not responsible for any offensive, inappropriate, obscene, unlawful or otherwise objectionable content or information on School-Zone. We are not responsible for the conduct, whether online or offline, or any user of School-Zone.\n\nWE TRY TO KEEP SCHOOL-ZONE UP, BUG-FREE, AND SAFE, BUT YOU USE IT AT YOUR OWN RISK. WE ARE PROVIDING SCHOOL-ZONE AS IS WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT GUARANTEE THAT SCHOOL-ZONE WILL ALWAYS BE SAFE, SECURE OR ERROR-FREE OR THAT SCHOOL-ZONE WILL ALWAYS FUNCTION WITHOUT DISRUPTIONS, DELAYS OR IMPERFECTIONS. SCHOOL-ZONE IS NOT RESPONSIBLE FOR THE ACTIONS, CONTENT, INFORMATION, OR DATA OF THIRD PARTIES, AND YOU RELEASE US, OUR DIRECTORS, OFFICERS, EMPLOYEES, AND AGENTS FROM ANY CLAIMS AND DAMAGES, KNOWN AND UNKNOWN, ARISING OUT OF OR IN ANY WAY CONNECTED WITH ANY CLAIM YOU HAVE AGAINST ANY SUCH THIRD PARTIES. IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE CALIFORNIA CIVIL CODE, WHICH SAYS: A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR. WE WILL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR OTHER\n\nCONSEQUENTIAL, SPECIAL, INDIRECT, OR INCIDENTAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS STATEMENT OR SCHOOL-ZONE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR AGGREGATE LIABILITY ARISING OUT OF THIS STATEMENT OR SCHOOL-ZONE WILL NOT EXCEED THE GREATER OF ONE HUNDRED DOLLARS ($100) OR THE AMOUNT YOU HAVE PAID US IN THE PAST TWELVE MONTHS. APPLICABLE LAW MAY NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY OR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. IN SUCH CASES, SCHOOL-ZONE LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.\n\nGeneral\n\nThe failure of School-Zone to exercise or enforce any right or provision of the Terms of Service shall not constitute a waiver of such right or provision. The Terms of Service constitutes the entire agreement between you and School-Zone and govern your use of the Service, superseding any prior agreements between you and School-Zone (including, but not limited to, any prior versions of the Terms of Service). If for any reason a court of competent jurisdiction finds any provision of these Terms of Service invalid or unenforceable, that provision will be enforced to the maximum extent permissible and the other provisions of these Terms of Service with remain in full force and effect.\n\nYou acknowledge and agree that you are each waiving the right to participate as a plaintiff or class member in any purported class action or representative proceeding. Further, more than one person’s claims may not be consolidated under any circumstances, in any form of any class or representative proceeding or otherwise.\n\nContacting School-Zone; Technical Support\n\nQuestions about the Terms of Service or for general technical support information you may visit http://www.ourschoolzone.org/contact-us . If you have purchased an upgraded support package, please contact us via the phone number provided to you. "; ObjectID = "pSH-Eo-XnZ";</note>
+      </trans-unit>
+      <trans-unit id="qyS-HA-kQA.text">
+        <source>Remarks</source>
+        <target>Remarks</target>
+        <note>Class = "UITextView"; text = "Remarks"; ObjectID = "qyS-HA-kQA";</note>
+      </trans-unit>
+      <trans-unit id="rSn-a3-0EE.text">
+        <source>Chapter Index</source>
+        <target>Chapter Index</target>
+        <note>Class = "UILabel"; text = "Chapter Index"; ObjectID = "rSn-a3-0EE";</note>
+      </trans-unit>
+      <trans-unit id="rVg-Q2-W0B.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "rVg-Q2-W0B";</note>
+      </trans-unit>
+      <trans-unit id="rer-h4-9b0.normalTitle">
+        <source>Settings</source>
+        <target>Settings</target>
+        <note>Class = "UIButton"; normalTitle = "Settings"; ObjectID = "rer-h4-9b0";</note>
+      </trans-unit>
+      <trans-unit id="u1c-LG-heW.text">
+        <source>Class</source>
+        <target>Class</target>
+        <note>Class = "UILabel"; text = "Class"; ObjectID = "u1c-LG-heW";</note>
+      </trans-unit>
+      <trans-unit id="vK8-6C-ROg.text">
+        <source>Chapter Index</source>
+        <target>Chapter Index</target>
+        <note>Class = "UILabel"; text = "Chapter Index"; ObjectID = "vK8-6C-ROg";</note>
+      </trans-unit>
+      <trans-unit id="wbk-fZ-dma.text">
+        <source>I accept the Terms &amp; Conditions.</source>
+        <target>I accept the Terms &amp; Conditions.</target>
+        <note>Class = "UILabel"; text = "I accept the Terms &amp; Conditions."; ObjectID = "wbk-fZ-dma";</note>
+      </trans-unit>
+      <trans-unit id="xu5-Jp-x8W.text">
+        <source>2018</source>
+        <target>2018</target>
+        <note>Class = "UILabel"; text = "2018"; ObjectID = "xu5-Jp-x8W";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="SchoolZoneTeacher/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="th">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.1" build-num="10B61"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>SchoolZone</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription">
+        <source>Used to take photo</source>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSPhotoLibraryUsageDescription">
+        <source>Used to choose photo</source>
+        <note>Privacy - Photo Library Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

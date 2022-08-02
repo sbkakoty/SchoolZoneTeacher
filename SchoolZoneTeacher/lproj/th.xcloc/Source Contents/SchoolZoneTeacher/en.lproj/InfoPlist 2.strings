@@ -1,0 +1,8 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "SchoolZone";
+/* Bundle name */
+"CFBundleName" = "$(PRODUCT_NAME)";
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Used to take photo";
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Used to choose photo";
